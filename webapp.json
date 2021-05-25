@@ -2,7 +2,7 @@
     "family": "webapp",
     "containerDefinitions": [
         {
-            "image": "sirasaoa/webapp-image",
+            "image": "sirasaoa/webapp-image:latest",
             "name": "webapp",
             "cpu": 10,
             "memory": 256,
